@@ -7,6 +7,6 @@ namespace RazaMasjid.Data
 {
     public class AdminRepository
     {
-
+        //Hello Hashmat
     }
 }
